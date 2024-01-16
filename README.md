@@ -6,6 +6,6 @@ You can take a look at how the scripts were made, and it might help you understa
 
 Here are some other free websites for scripts or plugins:
 
+https://nitro4d.com/products/
 https://polyflow.xyz/vertex-animation-tools.html
-
 https://github.com/aturtur/cinema4d-scripts
