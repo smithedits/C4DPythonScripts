@@ -7,10 +7,11 @@ class MyDialog(gui.GeDialog):
         self.GroupBegin(1000, c4d.BFH_SCALEFIT, 2, 1, title="My Fold Group")
         self.AddEditText(1001, c4d.BFH_SCALEFIT)
         self.AddCheckbox(1002, c4d.BFH_SCALEFIT, initw=200, name="Option 1")
-        self.GroupEnd()
-
         # Add a button to retrieve folding state
         self.AddButton(1003, c4d.BFH_CENTER, name="Get Folding State")
+        self.GroupEnd()
+
+
 
         return True
 
