@@ -11,3 +11,5 @@ https://nitro4d.com/products/
 https://polyflow.xyz/vertex-animation-tools.html
 
 https://github.com/aturtur/cinema4d-scripts
+
+https://github.com/PluginCafe/cinema4d_py_sdk_extended
