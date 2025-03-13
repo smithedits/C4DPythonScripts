@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to readme-md-generator 👋</h1>
+<h1 align="center">Cinema 4D Python scripts 👋</h1>
 
 These are small tiny scripts, which you are more than welcome to use.<br />
 I wanted to learn to code python in Cinema 4D, and had a hard time learning just a little bit of it, since the documentation is quite hard to understand for some of us.<br />
