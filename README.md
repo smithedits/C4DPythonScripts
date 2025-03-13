@@ -4,7 +4,7 @@ These are small tiny scripts, which you are more than welcome to use.<br />
 I wanted to learn to code python in Cinema 4D, and had a hard time learning just a little bit of it, since the documentation is quite hard to understand for some of us.<br />
 You can take a look at how the scripts were made, and it might help you understand some of it better!<br />
 
-<h2 align="left">Great examples of using Python for Cinema 4D</h2>
+<h2 align="left">Great examples of using Python for Cinema 4D
 <br />
 https://plugins4d.com/Description/NodesByPlugin#python
 
