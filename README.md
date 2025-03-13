@@ -3,7 +3,6 @@ I wanted to learn to code python in Cinema 4D, and had a hard time learning just
 You can take a look at how the scripts were made, and it might help you understand some of it better!<br />
 <br />
 <br />
-<br />
 Here are some other free websites for scripts or plugins:
 <br />
 https://nitro4d.com/products/ 
