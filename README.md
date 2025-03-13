@@ -5,7 +5,6 @@ I wanted to learn to code python in Cinema 4D, and had a hard time learning just
 You can take a look at how the scripts were made, and it might help you understand some of it better!<br />
 
 <h2 align="left">Great examples of using Python for Cinema 4D</h2>
-<br />
 https://plugins4d.com/Description/NodesByPlugin#python
 
 <br />
